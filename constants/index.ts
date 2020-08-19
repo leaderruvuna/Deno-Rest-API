@@ -1,7 +1,3 @@
-
 import * as httpCodes from './statusCodes.ts';
 
-
-export{
-    httpCodes
-}
+export { httpCodes };
